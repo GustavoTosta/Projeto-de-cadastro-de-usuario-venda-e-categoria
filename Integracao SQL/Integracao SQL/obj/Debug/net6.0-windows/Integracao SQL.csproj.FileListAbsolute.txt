@@ -1,0 +1,32 @@
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\Integracao SQL.exe
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\Integracao SQL.deps.json
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\Integracao SQL.runtimeconfig.json
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\Integracao SQL.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\Integracao SQL.pdb
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.csproj.AssemblyReference.cache
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao_SQL.frm_user.resources
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.csproj.GenerateResource.cache
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.AssemblyInfoInputs.cache
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.AssemblyInfo.cs
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\refint\Integracao SQL.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.pdb
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.genruntimeconfig.cache
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\ref\Integracao SQL.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao SQL.csproj.CopyComplete
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao_SQL.frm_categoria.resources
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao_SQL.mdi.resources
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao_SQL.Properties.Resources.resources
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao_SQL.frm_produto.resources
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao_SQL.frm_login.resources
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao_SQL.frmPesquisaUsuario.resources
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao_SQL.frm_pesquisaCategoria.resources
+C:\Users\gustavo.tbsilva\source\repos\Integracao SQL\Integracao SQL\obj\Debug\net6.0-windows\Integracao_SQL.frm_PesquisaProduto.resources
